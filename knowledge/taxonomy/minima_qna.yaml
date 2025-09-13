@@ -190,7 +190,7 @@ seed_examples:
 document_outline: |
   Presents the minima consultancy, its purpose, problems it solves, services offered, and partnership model.
 document:
-  repo: https://github.com/akio-code/minimodel.git
-  commit: 8a1b62cfb6203d750815c42099b500130e5db236
+  repo: https://github.com/akio-code/minimodel-fine-tuning.git
+  commit: 74d4523fec0938cbc3cdee5c712a00ff6809705e
   patterns:
     - "knowledge/*.md"
