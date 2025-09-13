@@ -1,0 +1,196 @@
+version: 3
+domain: "Product and Strategic Design"
+created_by: "Lucas Akio"
+seed_examples:
+  - context: |
+      Many technology companies jump straight to execution without understanding the real problem, listening to the user, or aligning business, product, and technology. This leads to solutions that do not solve real pains, teams stuck between urgency and uncertainty, and dissatisfied customers.
+    questions_and_answers:
+      - question: |
+          What is the main problem faced by technology companies according to minima's white paper?
+        answer: |
+          Executing before understanding the real problem, without listening to the user or aligning areas, which generates inadequate solutions and dissatisfaction.
+      - question: |
+          What happens when companies do not align business, product, and technology?
+        answer: |
+          They create solutions that do not solve real pains, have stuck teams, and customers who do not perceive value.
+      - question: |
+          Why was minima created in this context?
+        answer: |
+          To help companies deliver real value to the customer, transforming products, processes, and teams with focus and clarity.
+  - context: |
+      Minima is a consultancy created by a Lead Product Designer and a Lead Product Developer. Its mission is to transform products, processes, and teams with the minimum necessary and the maximum impact, believing in transformations based on clarity, active listening, and grounded decisions.
+    questions_and_answers:
+      - question: |
+          Who founded minima and what is its purpose?
+        answer: |
+          A Lead Product Designer and a Lead Product Developer; to transform products, processes, and teams with impact and focus on the essential.
+      - question: |
+          What differentiates minima's approach compared to traditional consultancies?
+        answer: |
+          Focus on the minimum necessary, clarity, active listening, and decisions based on business vision, without heavy structures.
+      - question: |
+          What is minima's mission?
+        answer: |
+          To transform products, processes, and teams with the maximum impact and the minimum necessary.
+  - context: |
+      Minima identifies three major common bottlenecks: execution before understanding, lack of product clarity, and lack of focus on value. This generates rework, misalignment, deliveries disconnected from strategy, and loss of value for the user and the business.
+    questions_and_answers:
+      - question: |
+          What are the main problems that minima solves?
+        answer: |
+          Execution without understanding, lack of product clarity, and absence of focus on real value for the user and business.
+      - question: |
+          How does lack of product clarity affect teams?
+        answer: |
+          It causes teams to work in the dark, delivering solutions misaligned with the strategy.
+      - question: |
+          What happens when focus on value is lost?
+        answer: |
+          UX becomes just interface, discovery becomes meetings, and product becomes backlog, losing real value.
+  - context: |
+      Minima provides flexible, modular services, including strategic diagnosis (Decipher), discovery sprints (Clarify), prototyping and testing (Validate), decision-making workshops (Unblock), lightweight functional deliveries (Light Delivery), an on-demand design team (Design OnTap), and product mentoring.
+    questions_and_answers:
+      - question: |
+          What services does minima offer?
+        answer: |
+          Decipher, Clarify, Validate, Unblock, Light Delivery, Design OnTap, and Product Mentoring.
+      - question: |
+          What is the "Clarify" service?
+        answer: |
+          A discovery sprint to map real user needs and business opportunities.
+      - question: |
+          How does "Design OnTap" work?
+        answer: |
+          A flexible design and product team available to support strategic and creative demands.
+  - context: |
+      Minima's partnership model is pluggable, without fixed contractual ties, starting with a short pilot and charging per sprint or fixed scope. The goal is to act as a strategic arm, without friction with internal teams.
+    questions_and_answers:
+      - question: |
+          How does minima's partnership model work?
+        answer: |
+          It starts with a short pilot, charges per sprint or fixed scope, without a fixed contract, integrating into the client's team.
+      - question: |
+          What advantages does minima bring to companies like 7comm?
+        answer: |
+          Increased speed, reduced rework, stronger product narratives, and the possibility of new offerings without hiring a new team.
+      - question: |
+          What does it mean to be a pluggable and precise model?
+        answer: |
+          Minima easily integrates into client projects, acting strategically and on demand.
+  - context: |
+      Minima believes that product transformation starts with a good question, listening to the user, and a team with clarity. Its focus is to help companies do more with focus, without waste.
+    questions_and_answers:
+      - question: |
+          What is minima's central belief about product transformation?
+        answer: |
+          That it starts with a well-made question, listening to the user, and clarity for the team.
+      - question: |
+          Who is minima intended for?
+        answer: |
+          Companies that want to do more with focus, avoiding waste of energy, time, or money.
+      - question: |
+          Who are the founders of minima?
+        answer: |
+          Humberto Gessinger (Lead Product Designer) and Lucas Akio (Lead Product Developer).
+  - context: |
+      Minima values clarity, purpose, and impact in its brand identity. It believes that every transformation must be guided by these principles to generate significant and sustainable results. The brand seeks to be a beacon of simplicity and effectiveness, promoting conscious decisions aligned with real value for the user and the business.
+    questions_and_answers:
+      - question: |
+          What are the core principles of minima's brand identity?
+        answer: |
+          Clarity, purpose, and impact.
+      - question: |
+          Why does minima value clarity in its brand?
+        answer: |
+          Because clarity guides decisions and facilitates effective communication.
+      - question: |
+          How does minima view impact in its work?
+        answer: |
+          As the result of conscious transformations focused on the essential.
+      - question: |
+          What is minima's goal in promoting simplicity in the brand?
+        answer: |
+          To facilitate aligned decisions and generate real value for the user and business.
+  - context: |
+      Minima's brand strategy positions itself against excess and unnecessary complexity, advocating intentionality in every action and decision. It seeks conscious design that prioritizes the essential, avoiding waste and focusing on delivering real value. This stance reinforces commitment to lean, clear, and effective products and processes.
+    questions_and_answers:
+      - question: |
+          How does minima position itself regarding excess and complexity?
+        answer: |
+          It positions itself against them, advocating simplicity and intentionality.
+      - question: |
+          What does conscious design mean for minima?
+        answer: |
+          Prioritizing the essential, avoiding waste, and focusing on real value.
+      - question: |
+          How does minima's brand strategy influence its products and processes?
+        answer: |
+          It promotes lean, clear, and effective solutions.
+      - question: |
+          Why is intentionality important in minima's strategy?
+        answer: |
+          Because it ensures every action has purpose and significant results.
+  - context: |
+      Minima's brand personality is marked by precision, clarity, and meaning. Communication is direct and objective, conveying confidence and expertise. The brand avoids noise and ambiguity, always seeking to deliver messages with depth and relevance, aligned with the company's purpose and mission.
+    questions_and_answers:
+      - question: |
+          What are the main traits of minima's brand personality?
+        answer: |
+          Precision, clarity, and meaning.
+      - question: |
+          How does minima approach communication with its audience?
+        answer: |
+          In a direct, objective, and reliable manner.
+      - question: |
+          Why does minima avoid noise and ambiguity in communication?
+        answer: |
+          To ensure clear messages aligned with the purpose.
+      - question: |
+          How does minima's personality reinforce its expertise?
+        answer: |
+          By conveying confidence through deep and relevant messages.
+  - context: |
+      Minima's key messages reinforce its commitment to products with purpose, simplicity, and clarity in the process. They highlight that less is more, that the process is minimal and effective, and that clarity is essential for decisions and value delivery. These messages guide the brand's communication and positioning.
+    questions_and_answers:
+      - question: |
+          What are the main themes of minima's key messages?
+        answer: |
+          Product with purpose, simplicity, minimal process, and clarity.
+      - question: |
+          What does "Your Product, with Purpose" mean for minima?
+        answer: |
+          That every product must generate real value aligned with the business.
+      - question: |
+          How does minima interpret the concept "Less is More"?
+        answer: |
+          That simplicity and focus generate greater impact and efficiency.
+      - question: |
+          Why is clarity highlighted in minima's messages?
+        answer: |
+          Because it is fundamental for accurate decisions and effective deliveries.
+  - context: |
+      Minima's logo symbolizes the brand's precision and simplicity, using clear geometric shapes that convey clarity and focus. Its minimalist design reflects the philosophy of "minimum necessary, maximum impact," reinforcing the visual identity as an element that communicates the brand's essence in a direct and memorable way.
+    questions_and_answers:
+      - question: |
+          What does minima's logo symbolize?
+        answer: |
+          The brand's precision, simplicity, and focus.
+      - question: |
+          How does the logo design reflect minima's philosophy?
+        answer: |
+          It uses clear and minimalist geometric shapes to express "minimum necessary, maximum impact."
+      - question: |
+          Why is the logo important for minima's visual identity?
+        answer: |
+          Because it communicates the brand's essence directly and memorably.
+      - question: |
+          How does the logo reinforce minima's values?
+        answer: |
+          By visually conveying clarity, purpose, and impact.
+document_outline: |
+  Presents the minima consultancy, its purpose, problems it solves, services offered, and partnership model.
+document:
+  repo: https://github.com/akio-code/minimodel.git
+  commit: 8a1b62cfb6203d750815c42099b500130e5db236
+  patterns:
+    - "knowledge/*.md"
